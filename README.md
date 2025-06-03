@@ -24,7 +24,8 @@ Each project folder contains:
 
 ### 🚀 **Connect with Me**  
 📌 **LinkedIn:** https://www.linkedin.com/in/stephen-ogundipe-321b55307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
-📌 **Tableau Public:** [Your Tableau Profile]  
+📌 **Tableau Public:** (https://public.tableau.com/app/profile/stephen.ogundipe/vizzes)
+  
 📌 **GitHub:** [Your GitHub Profile]
 Feel free to explore, and let’s turn data into impactful solutions!  
 
